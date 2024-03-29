@@ -13,3 +13,8 @@ This is an example of a GitHub repository.
 Lorem Ipsum
 
 I am in class, writing this.
+
+Adding more lines because I have to
+Like this one
+And this one
+And this
