@@ -11,3 +11,5 @@
 This is an example of a GitHub repository.
 
 Lorem Ipsum
+
+I am in class, writing this.
